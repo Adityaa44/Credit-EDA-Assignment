@@ -1,2 +1,1 @@
-Credit-EDA-Assignment
-This Credit EDA Assignmest
+Credit Exploratory Data Analysis: Unveiling Patterns and Insights
